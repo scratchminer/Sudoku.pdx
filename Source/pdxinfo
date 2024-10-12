@@ -1,0 +1,4 @@
+name=Sudoku
+author=scratchminer
+description=A little sudoku app for the Playdate
+bundleID=io.github.scratchminer.sudoku
